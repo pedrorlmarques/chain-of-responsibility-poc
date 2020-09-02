@@ -3,4 +3,5 @@ post-callback:
     - "createOrderPdfPostCallBack"
     - "sendEmailPostCallBack"
     - "systemOutOrderPostCallBack"
+    - "errorPostCallBack"
 
