@@ -1,6 +1,7 @@
-package com.example.chainofresponsibility.domain;
+package com.example.chainofresponsibility.callback;
 
 
+import com.example.chainofresponsibility.domain.Order;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.example.chainofresponsibility.domain;
+package com.example.chainofresponsibility.callback;
 
 public abstract class AbstractPostCallBack<T> {
 

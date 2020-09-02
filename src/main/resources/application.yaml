@@ -2,5 +2,5 @@ post-callback:
   processes:
     - "createOrderPdfPostCallBack"
     - "sendEmailPostCallBack"
-    - "systemOutOrder"
+    - "systemOutOrderPostCallBack"
 
